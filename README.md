@@ -4,8 +4,6 @@ This program is a very basic Character Sheet helper and die manager for a tablet
 I started this project to learn basics of Python from the input/output stream through class definitions and inheritance. I
 felt it would be very helpful to me as a dungeon master who often does not have a personal character sheet on hand to have a program that can quickly be filled to cleanly portray my characters for use as a player. Additionally, I designed it with the intent to one day expand for use as a DM for storage of enemy or NPC stat blocks.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
 You can view a short demo of the program here: [Software Demo Video](https://youtu.be/ra9u5tOA4HA)
 
 # Development Environment
